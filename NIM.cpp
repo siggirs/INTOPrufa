@@ -32,6 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 	int val;
+	cout <<"Siggi";
 	do
 	{
 		cout << endl << endl << endl;
